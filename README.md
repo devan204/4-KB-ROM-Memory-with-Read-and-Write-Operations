@@ -55,6 +55,7 @@ module rom_memory (
         data_out <= rom[address];
     end
 endmodule
+![Screenshot 2024-10-17 144003](https://github.com/user-attachments/assets/2c0e8ec1-2d06-4932-8098-68192bfba53f)
 
 
 Testbench for 4KB ROM Memory
@@ -116,6 +117,7 @@ module rom_memory_tb;
     end
 
 endmodule
+![Screenshot 2024-10-17 at 14 47 45_df0a2ad9](https://github.com/user-attachments/assets/216d3fe6-d382-4877-aa0a-c7a2d92ef46c)
 
 
 Conclusion
